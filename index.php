@@ -1,10 +1,6 @@
 
 	<?php require('./layouts/encabezado-de-pagina.php') ?>
 
-    <?php require('./layouts/preloader.php') ?>
-
-	<?php require('./layouts/menu.php') ?>
-
 	<!-- ========================= slider-section start ========================= -->
 	<section id="home" class="hero-area img-bg">
 		<div class="container">
